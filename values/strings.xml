@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trip App</string>
+    <string name="explorer_nthe_world">Explorer\nThe World</string>
+    <string name="manage_your_trips_n_woth_our_app">Manage Your Trips\n With Our App</string>
+    <string name="let_s_start"><![CDATA[Let \'s Start >]]></string>
+    <string name="travel_made_neffortless">Travel Made\nEffortless</string>
+    <string name="upcoming_schedulas">Upcoming Schedulas</string>
+    <string name="travel">Travel</string>
+    <string name="flights">Flights</string>
+    <string name="boats">Boats</string>
+    <string name="bus">Bus</string>
+</resources>
